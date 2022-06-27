@@ -1,0 +1,10 @@
+{
+   "language": "English",
+   "@language":{
+   "description": "The current Language"
+   },
+   "offers": "Offers",
+      "@offers":{
+      "description": "A offers greeting"
+      }
+}
